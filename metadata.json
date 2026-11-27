@@ -1,0 +1,6 @@
+{
+  "name": "Bloodlines",
+  "description": "Native-style PSP game launcher & ISO vault for Assassin's Creed: Bloodlines with anti-lag performance tuning and auto-landscape custom action controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
